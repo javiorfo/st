@@ -2,7 +2,6 @@
 *Personal [suckless ST](https://st.suckless.org/) configuration*
 
 ## Dependencies
-- [suckless scroll](https://tools.suckless.org/scroll)
 - Iosevka Nerd Font
 
 ## Patches
