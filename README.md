@@ -1,4 +1,4 @@
-# st
+# st 0.9.3
 *Personal [suckless ST](https://st.suckless.org/) configuration*
 
 ## Dependencies
@@ -9,6 +9,7 @@
 - [Scrollback Ringbuffer](https://st.suckless.org/patches/scrollback/st-scrollback-ringbuffer-0.9.2.diff)
 - [Scrollback Mouse](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-0.9.2.diff)
 - [Glyph Wide Support](https://st.suckless.org/patches/glyph_wide_support/st-glyph-wide-support-20220411-ef05519.diff)
+- [Anysize](https://st.suckless.org/patches/anysize/st-anysize-20220718-baa9357.diff)
 
 ## Installation
 ```bash
